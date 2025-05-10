@@ -11,7 +11,7 @@ As the internet becomes increasingly reliant on trustless systems, **root.src** 
 - Permanent archival via Arweave
 - Immutable proof and timestamping through Ethereum or Polygon
 
-## 🌐 Core Components
+### 🌐 Core Components
 ### 🧩 root.src (Framework Layer)
 - Interfaces with decentralized systems
 - Manages input/output of verification logic
@@ -38,7 +38,6 @@ As the internet becomes increasingly reliant on trustless systems, **root.src** 
 - Decentralized identities for content creators and data publishers
 - Web3-based fact-checking and source attribution
 
-
 ## 🛠 Future Plans
 
 - Integration with Ceramic or other DID standards
@@ -50,6 +49,6 @@ As the internet becomes increasingly reliant on trustless systems, **root.src** 
 
 We're actively developing the base framework. In the meantime:
 
-1. Follow the project for updates
-2. Star and watch the repo
-3. Join discussions or contribute ideas via issues
+- Follow the project for updates
+- Star and watch the repo
+- Join discussions or contribute ideas via issues
