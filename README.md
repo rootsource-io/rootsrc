@@ -5,7 +5,7 @@
 ## 🔍 Overview
 
 As the internet becomes increasingly reliant on trustless systems, **root.src** aims to provide a framework for:
-
+<br>
 - Verifiable digital identities via Handshake
 - Decentralized content storage using IPFS
 - Permanent archival via Arweave
