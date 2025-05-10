@@ -12,7 +12,6 @@ As the internet becomes increasingly reliant on trustless systems, **root.src** 
 - Immutable proof and timestamping through Ethereum or Polygon
 
 ## 🌐 Core Components
-
 ### 🧩 root.src (Framework Layer)
 - Interfaces with decentralized systems
 - Manages input/output of verification logic
