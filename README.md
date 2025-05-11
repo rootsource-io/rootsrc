@@ -1,4 +1,4 @@
-### rootsrc/README  
+## rootsrc/README  
 
 **root.src** is a decentralized verification and identity layer built on **Handshake (HNS)**, **IPFS**, and **blockchain protocols**. It enables cryptographically secure identity anchoring, content verification, and archiving of AI-generated or user-generated data across decentralized networks.
 
@@ -36,16 +36,14 @@ As the internet becomes increasingly reliant on trustless systems, **root.src** 
 - Decentralized identities for content creators and data publishers
 - Web3-based fact-checking and source attribution
 
-### ✦ Future Plans
+### 🌣 Future Plans
 
 - Integration with Ceramic or other DID standards
 - DAO governance for trusted verifiers
 - Public explorer for archive entries and verification status
 - API for submitting and verifying content hashes
 
-### ★ Getting Started
-
-We're actively developing the base framework. In the meantime:    
+### ★ We're actively developing the base framework. In the meantime:      
 
 - Follow the project for updates
 - Star and watch the repo
