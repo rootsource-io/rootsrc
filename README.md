@@ -1,4 +1,4 @@
-### rootsrc/README
+### rootsrc/README  
 
 **root.src** is a decentralized verification and identity layer built on **Handshake (HNS)**, **IPFS**, and **blockchain protocols**. It enables cryptographically secure identity anchoring, content verification, and archiving of AI-generated or user-generated data across decentralized networks.
 
